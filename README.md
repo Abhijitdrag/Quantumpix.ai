@@ -1,4 +1,4 @@
-If you're asking for a description of a project involving AI image generation based on text, here’s a possible project outline:
+⚡ If you're asking for a description of a project involving AI image generation based on text, here’s a possible project outline:
 
 ---
 
